@@ -24,12 +24,14 @@ html {
   color: #fff;
   margin: 0.2em;
   line-height: 1.4;
+  position: absolute;
+  bottom: 2.65em;
 }
 
 p {
   font-size: 2rem;
   font-style: italic;
-  margin: 0.2em 0.5em 1em 0.7em;
+  margin: 0.5em 0.7em .75em 0.7em;
 }
 
 span {
@@ -44,7 +46,6 @@ span {
   display: inline-block;
   max-width: 45em;
   width: 100%;
-  padding: 0 1rem 0 1rem;
 }
 
 body {
